@@ -1,4 +1,4 @@
-MICROSOFT TEAMS CLONE APP
+Video CLONE APP
 
 With this app we can have a group video chat with other peers in the same room.
 I have used Django for backend and html, css and javascript for frontend . For signalling server Websockets is used . For database Postgresql is used.
@@ -7,7 +7,7 @@ Websockets are used which allows more than 2 peers to connect which is quite dif
 This app has user authentication system.
 
 
-video link:- https://www.youtube.com/watch?v=dI4tBNL4YcA
+
 
 WEBPAGES IN THIS APP
 

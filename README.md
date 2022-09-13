@@ -1,4 +1,4 @@
-Video CLONE APP
+Video Chat APP
 
 With this app we can have a group video chat with other peers in the same room.
 I have used Django for backend and html, css and javascript for frontend . For signalling server Websockets is used . For database Postgresql is used.
